@@ -80,13 +80,6 @@
             <version>2.5.1</version>
         </dependency>
 
-        <!--commons-lang工具包(提供了很多工具类)-->
-        <dependency>
-            <groupId>commons-lang</groupId>
-            <artifactId>commons-lang</artifactId>
-            <version>2.6</version>
-        </dependency>
-
         <!--jwt的依赖-->
         <dependency>
             <groupId>com.auth0</groupId>
